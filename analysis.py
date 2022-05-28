@@ -17,6 +17,14 @@ def distribution_facet(df, columns):
 
 
 
+'''
+    カテゴリデータについてターゲットとの分布を調べる
+
+'''
+def categorical_boxplot():
+
+
+
 
 def main():
     pass
